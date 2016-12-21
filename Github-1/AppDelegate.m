@@ -19,7 +19,7 @@
     // Override point for customization after application launch.
     
     
-    // this is branch1 diretory.....
+    // this is master diretory.....
     ///
     
     ////
@@ -33,7 +33,8 @@
     ////
     
     
-    /////
+    ///// this is master dir
+    
     
     return YES;
 }
